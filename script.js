@@ -6,3 +6,5 @@ const canvas = document.getElementById('canvas');
 // Rules and close event listeners
 rulesBtn.addEventListener('click', () => rules.classList.add('show'));
 closeBtn.addEventListener('click', () => rules.classList.remove('show'));
+
+// 3
